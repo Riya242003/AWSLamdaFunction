@@ -23,7 +23,7 @@ DynamoDB: Saves the submitted details for further use.
 ![Alt Text](https://media.geeksforgeeks.org/wp-content/uploads/20231026153053/serverless-authrntication_2-768.jpg)
 
 
-Setup Overview
+# Setup Overview
 
 Step 1: Create a DynamoDB Table
 I
@@ -41,7 +41,7 @@ Step 4: Connect Frontend
 
 Build a frontend form that sends user data to the API Gateway endpoint via a POST request.
 
-Benefits
+# Benefits
 
 Ease of Use: Simplified architecture for form handling.
 
